@@ -28,7 +28,7 @@ Interactive dashboard showing sales by region, product, and time
 - **Power BI Slicers** – for interactivity (e.g., filtering by region or product category)
 
 ###  Output:
-
+![Image](https://github.com/user-attachments/assets/fcdbe0a3-a84e-4c0d-afb3-4a6c614742ff)
 
 
 
