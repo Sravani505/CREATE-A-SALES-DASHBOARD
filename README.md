@@ -1,15 +1,12 @@
 # CREATE-A-SALES-DASHBOARD
 Interactive dashboard showing sales by region, product, and time
-
 **Company Name:** CODTECH IT SOLUTIONS PRIVATE LIMITED  
 **Created by:** Sravani  
 **Intern ID:** CT06DM1171  
 **Domain:** Power BI  
 **Batch Duration:** 6 weeks (May 20th – July 5th)  
-**Mentor:** Neela Santhosh Kumar  
----
+**Mentor:** Neela Santhosh Kumar
 
-🔧 Task 1 – Interactive Sales Dashboard in Power BI
 📌 Task Objective:
 Create a Power BI dashboard showing:
 
@@ -18,6 +15,7 @@ Create a Power BI dashboard showing:
 🏆 Top-performing products
 
 🌍 Regional sales performance
+
 ## 📝 Description:
 This dashboard was created using Microsoft Power BI to analyze sample sales data. It offers a comprehensive view of:
 - Regional sales distribution  
