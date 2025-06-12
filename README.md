@@ -1,5 +1,5 @@
 # CREATE-A-SALES-DASHBOARD
-Interactive dashboard showing sales by region, product, and time
+
 **Company Name:** CODTECH IT SOLUTIONS PRIVATE LIMITED  
 **Created by:** Sravani  
 **Intern ID:** CT06DM1171  
