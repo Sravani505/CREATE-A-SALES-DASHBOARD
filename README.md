@@ -48,4 +48,4 @@ KPI Card: Displays overall sum of sales (468K) for quick snapshot.
 - Microsoft Power BI Desktop  
 
 ## Output
-
+![Image](https://github.com/user-attachments/assets/5c97dfd1-c04a-4273-bbd6-faff37e603af)
