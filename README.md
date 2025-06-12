@@ -1,36 +1,51 @@
 # CREATE-A-SALES-DASHBOARD
 Interactive dashboard showing sales by region, product, and time
-# Power BI Dashboard – Task 1
 
-##  Company Name:**CodTech IT Solutions Private Limited**
+**Company Name:** CODTECH IT SOLUTIONS PRIVATE LIMITED  
+**Created by:** Sravani  
+**Intern ID:** CT06DM1171  
+**Domain:** Power BI  
+**Batch Duration:** 6 weeks (May 20th – July 5th)  
+**Mentor:** Neela Santhosh Kumar  
+---
 
-## Created By:**Sravani**
+🔧 Task 1 – Interactive Sales Dashboard in Power BI
+📌 Task Objective:
+Create a Power BI dashboard showing:
 
-##  Intern ID:**CT06DN1171**
+📍 Sales trends
 
-##  Domain:**Power BI**
+🏆 Top-performing products
 
-##  Batch Duration:**6 Weeks (May 20th – July 5th)**
+🌍 Regional sales performance
+## 📝 Description:
+This dashboard was created using Microsoft Power BI to analyze sample sales data. It offers a comprehensive view of:
+- Regional sales distribution  
+- Product-wise performance  
+- Time-based sales trends  
+Slicers are included to enable filtering by **region** and **month**, allowing dynamic exploration of data.
+---
 
-##  Mentor:**Neela Santhosh Kumar**
+🧩 Dashboard Features:
 
-###  Task Description:The goal of Task 1 was to design and develop an interactive **Power BI Sales Dashboard** using sample data. The dashboard aims to visualize key sales performance indicators such as:
-- **Total Sales Trends**
-- **Top Performing Products**
-- **Regional Sales Performance**
-- **Category-wise Distribution**
-- **Time-based Sales Analysis**
+Total Sales by Region: Bar chart showing sales distribution across East, West, North, and South.
 
-###  Tools & Technologies Used:
-- **Microsoft Power BI Desktop** – for data modeling and dashboard creation  
-- **Microsoft Excel** – for data source and preprocessing  
-- **DAX (Data Analysis Expressions)** – for calculated fields and KPIs  
-- **Power BI Slicers** – for interactivity (e.g., filtering by region or product category)
+Product-wise Sales Distribution: Pie chart indicating contribution of each product (Laptop, Smartphone, Monitor, Keyboard, Headphones).
 
-###  Output:
-![Image](https://github.com/user-attachments/assets/89b19d08-80c3-4a51-906d-5639be0fa3b1)
+Product-wise Sales Trend Over Time: Line chart showing how each product's sales changed over time.
 
+Slicers:
 
+Region filter
 
+Monthly sales filter
 
+KPI Card: Displays overall sum of sales (468K) for quick snapshot.
+
+## 🛠️ Tools Used:
+
+- Microsoft Excel  
+- Microsoft Power BI Desktop  
+
+## Output
 
