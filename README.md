@@ -23,22 +23,16 @@ This dashboard was created using Microsoft Power BI to analyze sample sales data
 - Time-based sales trends  
 Slicers are included to enable filtering by **region** and **month**, allowing dynamic exploration of data.
 ---
+## ✨ Features:
 
-🧩 Dashboard Features:
+- 📍 **Total Sales by Region** (Bar Chart)  
+- 🏆 **Top-Selling Products** (Pie Chart)  
+- 📈 **Sales Trend by Product Over Time** (Line Chart)  
+- 🧭 **Interactive Slicers** for Region and Month  
+- 🧮 **Overall Sales Value** (KPI Card)  
 
-Total Sales by Region: Bar chart showing sales distribution across East, West, North, and South.
 
-Product-wise Sales Distribution: Pie chart indicating contribution of each product (Laptop, Smartphone, Monitor, Keyboard, Headphones).
 
-Product-wise Sales Trend Over Time: Line chart showing how each product's sales changed over time.
-
-Slicers:
-
-Region filter
-
-Monthly sales filter
-
-KPI Card: Displays overall sum of sales (468K) for quick snapshot.
 
 ## 🛠️ Tools Used:
 
